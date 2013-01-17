@@ -7,12 +7,8 @@ Cras dictum. Maecenas ut turpis. In vitae erat ac orci dignissim eleifend. Nunc 
 
 Choose one of the following options:
 
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
-   release you'd like to use.
+1. This is item one
+2. This is item two
 
 
 ## Features
